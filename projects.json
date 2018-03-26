@@ -1,0 +1,29 @@
+[
+  {
+    "id": "16",
+    "name": "Bursa Modern",
+    "location": "Demirtas",
+    "locationAr": "xxxx",
+    "status": "Ready",
+    "statusAr": "",
+    "installment": "48",
+    "deliveryDate": "Ready",
+    "types": {
+      "1+1": {
+        "minPrice": "200,000",
+        "maxPrice": "400,000",
+        "minArea": "120",
+        "maxArea": "250"
+      },
+      "1+2": {
+        "minPrice": "200,000",
+        "maxPrice": "400,000",
+        "minArea": "120",
+        "maxArea": "250"
+      }
+    },
+    "images": [
+      "https://example.com/abc.jpg"
+    ]
+  }
+]

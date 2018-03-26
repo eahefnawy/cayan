@@ -1,2 +1,14 @@
 # cayan
-Utility functions for Cayan Group
+Functions for Cayan Group
+
+## Install
+
+```
+npm i --save @eahefnawy/cayan
+```
+
+## Examples
+
+```js
+
+```
