@@ -12,7 +12,6 @@
   "dependencies": {
     "axios": "^0.17.1",
     "money": "^0.2.0",
-    "numeral": "^2.0.6",
     "ramda": "^0.25.0"
   },
   "devDependencies": {
